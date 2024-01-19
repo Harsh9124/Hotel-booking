@@ -1,0 +1,48 @@
+// import React from "react";
+// import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
+// import Home from "../page";
+
+// function Main() {
+
+
+//   return (
+//     <>
+//       {/* -----Navbar Start ----- */}
+//       <div className="nav w-4/5 mx-auto bg-[#012533]">
+//         <div className="mt-3  mb-3 flex items-center justify-end gap-5 text-lg">
+//           <ScrollLink to="home" smooth={true} duration={500} className="cursor-pointer">
+//             Home
+//           </ScrollLink>
+
+//           <ScrollLink to="About" smooth={true} duration={500} className="cursor-pointer">
+//             About Us
+//           </ScrollLink>
+
+//           <ScrollLink to="sec2" smooth={true} duration={500} className="cursor-pointer">
+//             Contact
+//           </ScrollLink>
+//         </div>
+
+//       </div>
+//       {/* -----Navbar End ----- */}
+//       <hr />
+//       {/* -----Home Start ----- */}
+//       <div id="home">
+//         <Home />
+//       </div>
+//       <div id="About"></div>
+//       <div id="sec2"></div>
+
+
+//       {/* -----Home End ----- */}
+
+//       {/* -----Room Start ----- */}
+
+
+//       {/* -----Room End ----- */}
+
+//     </>
+//   );
+// }
+
+// export default Main;
